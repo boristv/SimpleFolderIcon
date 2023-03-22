@@ -32,11 +32,11 @@
 
 ## Customize
 
-`Assets/SimpleFolderIcon/Icons/Default/Default.png` is the sample icon file.
-Set your own icons by adding the **PNG** format images in `Assets/SimpleFolderIcon/Icons/`.
+`Assets/../SimpleFolderIcon/Icons/Default/Default.png` is the sample icon file.
+Set your own icons by adding the **PNG** format images in `Assets/../SimpleFolderIcon/Icons/`.
 The preferred size of the image is **256x256**.
 
-File names of the icon images in `Assets/SimpleFolderIcon/Icons/` are associated with the names of the folder that will be customize.
+File names of the icon images in `Assets/../SimpleFolderIcon/Icons/` are associated with the names of the folder that will be customize.
 
 **Just simply customize the icons by renaming or deleting the sample image files!**
 
@@ -47,6 +47,7 @@ File names of the icon images in `Assets/SimpleFolderIcon/Icons/` are associated
 ## Installation
  
 - Download the package from [Releases](https://github.com/SeaeeesSan/SimpleFolderIcon/releases).
+- You can move folder `SimpleFolderIcon` to any directory in `Assets`
  
 ## License
  
